@@ -1,0 +1,5 @@
+print("---------------------------")
+print("Nama : Sabiq Fauzil Adhim")
+print("Kelas : 19.1A.24")
+print("Jurusan : Sistem Informasi")
+print("===========================")
