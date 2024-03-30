@@ -1,5 +1,3 @@
-print("Tugas Mandiri 1")
-print("=======================")
 harga_telur = 26000
 berat = 5
 ongkos = 3500
