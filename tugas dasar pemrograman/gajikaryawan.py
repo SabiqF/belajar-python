@@ -20,13 +20,13 @@ else :
     tunjanganjabatan = 0
 
 #Tunjangan Pendidikan
-if pendidikan == "SMA" or pendidikan == "sma":
+if pendidikan == "SMA" or "sma":
     tunjanganpendidikan = 0.025 * 300000
-elif pendidikan == "D1" or pendidikan == "d1":
+elif pendidikan == "D1" or "d1":
     tunjanganpendidikan = 0.05 * 300000
-elif pendidikan == "D3" or pendidikan == "d3":
+elif pendidikan == "D3" or "d3":
     tunjanganpendidikan = 0.2 * 300000
-elif pendidikan == "S1" or pendidikan == "s1":
+elif pendidikan == "S1" or "s1":
     tunjanganpendidikan = 0.3 * 300000
 else :
     tunjanganpendidikan = 0
